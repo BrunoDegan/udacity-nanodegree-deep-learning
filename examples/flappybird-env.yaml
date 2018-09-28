@@ -1,0 +1,43 @@
+name: flappybird
+channels:
+  - menpo
+  - defaults
+dependencies:
+  - blas=1.0=mkl
+  - certifi=2018.8.24=py35_1
+  - icc_rt=2017.0.4=h97af966_0
+  - intel-openmp=2019.0=118
+  - mkl=2019.0=118
+  - mkl_fft=1.0.6=py35hdbbee80_0
+  - mkl_random=1.0.1=py35h77b88f5_1
+  - numpy=1.15.2=py35ha559c80_0
+  - numpy-base=1.15.2=py35h8128ebf_0
+  - pip=10.0.1=py35_0
+  - python=3.5.6=he025d50_0
+  - setuptools=40.2.0=py35_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_0
+  - wheel=0.31.1=py35_0
+  - wincertstore=0.2=py35hfebbdb8_0
+  - opencv3=3.1.0=py35_0
+  - pip:
+    - absl-py==0.5.0
+    - astor==0.7.1
+    - gast==0.2.0
+    - grpcio==1.15.0
+    - h5py==2.8.0
+    - keras==2.2.2
+    - keras-applications==1.0.5
+    - keras-preprocessing==1.0.3
+    - markdown==3.0.1
+    - protobuf==3.6.1
+    - pygame==1.9.4
+    - pyyaml==3.13
+    - scipy==1.1.0
+    - six==1.11.0
+    - tensorboard==1.11.0
+    - tensorflow==1.11.0
+    - termcolor==1.1.0
+    - werkzeug==0.14.1
+prefix: C:\Users\degan\AppData\Local\Continuum\anaconda\envs\flappybird
+

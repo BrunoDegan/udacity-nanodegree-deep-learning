@@ -1,0 +1,3 @@
+python evaluate.py --checkpoint ./wreck.ckpt --in-path
+ C:\Users\degan\Desktop\Udacity\examples\fast-style-transfer-master\cachorro.jpg 
+--out-path ./output5.jpg

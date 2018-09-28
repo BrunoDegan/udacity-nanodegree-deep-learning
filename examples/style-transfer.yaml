@@ -1,0 +1,33 @@
+name: style-transfer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - certifi=2018.8.24=py35_1001
+  - ffmpeg=4.0.2=h8fefcd1_0
+  - freetype=2.7=vc14_0
+  - jpeg=9b=vc14_1
+  - libpng=1.6.24=vc14_0
+  - libtiff=4.0.6=vc14_6
+  - pillow=4.3.0=py35_1
+  - tk=8.5.19=vc14_0
+  - zlib=1.2.11=vc14_0
+  - blas=1.0=mkl
+  - icc_rt=2017.0.4=h97af966_0
+  - intel-openmp=2019.0=118
+  - mkl=2019.0=118
+  - mkl_fft=1.0.6=py35hdbbee80_0
+  - mkl_random=1.0.1=py35h77b88f5_1
+  - numpy=1.15.2=py35ha559c80_0
+  - numpy-base=1.15.2=py35h8128ebf_0
+  - olefile=0.46=py35_0
+  - pip=10.0.1=py35_0
+  - python=3.5.6=he025d50_0
+  - scipy=1.1.0=py35h4f6bf74_1
+  - setuptools=40.2.0=py35_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_0
+  - wheel=0.31.1=py35_0
+  - wincertstore=0.2=py35hfebbdb8_0
+prefix: C:\Users\degan\AppData\Local\Continuum\anaconda\envs\style-transfer
+
